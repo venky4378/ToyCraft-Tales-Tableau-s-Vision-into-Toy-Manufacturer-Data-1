@@ -1,0 +1,22 @@
+{
+    "name": "tableau-project",
+    "version": "1.0.0",
+    "description": "ToyCraft Tales - Tableau Dashboard with Flask",
+    "main": "app.py",
+    "scripts": {
+        "start": "python app.py",
+        "dev": "python app.py"
+    },
+    "keywords": [
+        "flask",
+        "tableau",
+        "dashboard",
+        "toy-manufacturing",
+        "data-visualization"
+    ],
+    "author": "",
+    "license": "MIT",
+    "engines": {
+        "python": "3.8+"
+    }
+}
